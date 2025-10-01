@@ -59,3 +59,42 @@ Each project includes a description, sample datasets (if publicly available), Po
 ---
 
 ## 📂 Repository Structure
+
+
+powerbi-portfolio/
+│
+├── Sales-Dashboard/
+│ ├── Sales_Dashboard.pbix
+│ ├── sales_data.csv (if public dataset)
+│ ├── Sales_Dashboard.pdf
+│ └── Sales_Dashboard.png
+│
+├── HR-Analytics/
+│ ├── HR_Analytics.pbix
+│ ├── hr_data.csv (if public dataset)
+│ ├── HR_Analytics.png
+│
+├── Finance/
+│ ├── Finance_Dashboard.pbix
+│ ├── Finance_Dashboard.pdf
+│ └── Finance_Dashboard.png
+│
+└── README.md
+
+
+
+
+
+
+
+---
+
+## 🔗 Connect With Me
+- 💼 [LinkedIn Profile] https://www.linkedin.com/in/maria-teodora-bucur-b13a21158/
+- 📧 bucurmariateodora2@gmail.com
+
+---
+
+✨ Thanks for visiting my portfolio!  
+Feel free to explore the dashboards and connect with me.
+
